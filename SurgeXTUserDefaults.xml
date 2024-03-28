@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!-- User Defaults for Surge XT Synthesizer -->
+<defaults version="1">
+  <default key="defaultZoom" value="147" type="2"/>
+  <default key="defaultSkin" value="dark-mode.surge-skin/" type="1"/>
+  <default key="defaultSkinRootType" value="1" type="2"/>
+  <default key="initialPatchName" value="Bass FM2" type="1"/>
+  <default key="initialPatchCategory" value="MPE/Basses" type="1"/>
+  <default key="initialPatchCategoryType" value="User" type="1"/>
+  <default key="showVirtualKeyboardStandalone" value="1" type="2"/>
+  <default key="use3DWavetableView" value="1" type="2"/>
+  <default key="modListValueDisplay" value="3" type="2"/>
+  <default key="modlistOverlayLocation" firstvalue="39" secondvalue="57" type="3"/>
+  <default key="formulaOverlayLocation" firstvalue="25" secondvalue="135" type="3"/>
+  <default key="filterAnalysisOverlayLocation" firstvalue="0" secondvalue="172" type="3"/>
+  <default key="oscilloscopeOverlayLocation" firstvalue="50" secondvalue="92" type="3"/>
+  <default key="formulaOverlayLocationTearOut" firstvalue="1723" secondvalue="393" type="3"/>
+</defaults>
