@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!-- User Defaults for Surge XT Synthesizer -->
+<defaults version="1">
+  <default key="defaultZoom" value="125" type="2"/>
+  <default key="defaultSkin" value="dark-mode.surge-skin/" type="1"/>
+  <default key="defaultSkinRootType" value="1" type="2"/>
+  <default key="initialPatchName" value="Init Experimental MPE-RISE" type="1"/>
+  <default key="initialPatchCategory" value="Templates" type="1"/>
+  <default key="initialPatchCategoryType" value="User" type="1"/>
+  <default key="showVirtualKeyboardStandalone" value="0" type="2"/>
+  <default key="modListValueDisplay" value="3" type="2"/>
+</defaults>
