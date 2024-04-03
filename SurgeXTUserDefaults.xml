@@ -4,8 +4,8 @@
   <default key="defaultZoom" value="147" type="2"/>
   <default key="defaultSkin" value="dark-mode.surge-skin/" type="1"/>
   <default key="defaultSkinRootType" value="1" type="2"/>
-  <default key="initialPatchName" value="Bass FM2" type="1"/>
-  <default key="initialPatchCategory" value="MPE/Basses" type="1"/>
+  <default key="initialPatchName" value="Init Experimental MPE-RISE" type="1"/>
+  <default key="initialPatchCategory" value="Templates" type="1"/>
   <default key="initialPatchCategoryType" value="User" type="1"/>
   <default key="showVirtualKeyboardStandalone" value="1" type="2"/>
   <default key="use3DWavetableView" value="1" type="2"/>
