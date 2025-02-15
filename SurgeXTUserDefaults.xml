@@ -4,17 +4,21 @@
   <default key="defaultZoom" value="147" type="2"/>
   <default key="defaultSkin" value="dark-mode.surge-skin/" type="1"/>
   <default key="defaultSkinRootType" value="1" type="2"/>
-  <default key="initialPatchName" value="Init Experimental MPE-RISE" type="1"/>
-  <default key="initialPatchCategory" value="Templates" type="1"/>
+  <default key="initialPatchName" value="MPE Super Synth" type="1"/>
+  <default key="initialPatchCategory" value="MPE/Polysynths" type="1"/>
   <default key="initialPatchCategoryType" value="User" type="1"/>
   <default key="showVirtualKeyboardStandalone" value="1" type="2"/>
+  <default key="pitchSmoothingMode" value="1" type="2"/>
   <default key="use3DWavetableView" value="1" type="2"/>
   <default key="modListValueDisplay" value="3" type="2"/>
   <default key="modlistOverlayLocation" firstvalue="39" secondvalue="57" type="3"/>
   <default key="formulaOverlayLocation" firstvalue="80" secondvalue="67" type="3"/>
   <default key="filterAnalysisOverlayLocation" firstvalue="0" secondvalue="172" type="3"/>
   <default key="oscilloscopeOverlayLocation" firstvalue="0" secondvalue="0" type="3"/>
+  <default key="msegOverlayLocationTearOut" firstvalue="0" secondvalue="0" type="3"/>
   <default key="formulaOverlayLocationTearOut" firstvalue="1723" secondvalue="393" type="3"/>
   <default key="oscilloscopeOverlayLocationTearOut" firstvalue="1349" secondvalue="123" type="3"/>
+  <default key="msegOverlaySizeTearOut" firstvalue="1364" secondvalue="740" type="3"/>
   <default key="oscilloscopeOverlaySizeTearOut" firstvalue="1101" secondvalue="564" type="3"/>
+  <default key="msegOverlayTearOutAlwaysOnTop" value="0" type="2"/>
 </defaults>
