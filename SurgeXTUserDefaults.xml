@@ -1,7 +1,7 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
 <!-- User Defaults for Surge XT Synthesizer -->
 <defaults version="1">
-  <default key="defaultZoom" value="147" type="2"/>
+  <default key="defaultZoom" value="130" type="2"/>
   <default key="defaultSkin" value="dark-mode.surge-skin/" type="1"/>
   <default key="defaultSkinRootType" value="1" type="2"/>
   <default key="initialPatchName" value="MPE Super Synth" type="1"/>
