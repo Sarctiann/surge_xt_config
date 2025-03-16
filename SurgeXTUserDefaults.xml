@@ -11,6 +11,7 @@
   <default key="pitchSmoothingMode" value="1" type="2"/>
   <default key="use3DWavetableView" value="1" type="2"/>
   <default key="modListValueDisplay" value="3" type="2"/>
+  <default key="promptToActivateCategoryAndPatchOnKeypress" value="10" type="2"/>
   <default key="modlistOverlayLocation" firstvalue="39" secondvalue="57" type="3"/>
   <default key="msegOverlayLocation" firstvalue="0" secondvalue="35" type="3"/>
   <default key="formulaOverlayLocation" firstvalue="80" secondvalue="67" type="3"/>
